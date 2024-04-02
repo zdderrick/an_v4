@@ -16,5 +16,13 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typst" },
+  { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.scala" },
   -- import/override with your plugins folder
+  { import = "astrocommunity.note-taking.neorg" },
+  { import = "astrocommunity.editing-support.vim-visual-multi" },
+  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
+
+  -- git
+  { import = "astrocommunity.git.diffview-nvim" },
 }
