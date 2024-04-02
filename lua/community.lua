@@ -21,7 +21,7 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.note-taking.neorg" },
   { import = "astrocommunity.editing-support.vim-visual-multi" },
-  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
+  { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
 
   -- git
   { import = "astrocommunity.git.diffview-nvim" },
